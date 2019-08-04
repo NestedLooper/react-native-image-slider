@@ -14,6 +14,13 @@ or
 yarn add react-native-image-slider
 ```
 
+## Podfile
+add:
+```javascript
+pod 'RNImageSlider', :podspec => '../node_modules/react-native-image-slider/RNImageSlider.podspec'
+```
+
+
 ## Usage
 
 ```javascript
