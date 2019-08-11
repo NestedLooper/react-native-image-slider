@@ -14,10 +14,11 @@
       "email": "vaomamago@gmail.com"
     }
   ],
+  "homepage": "www.google.com"
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PaulBGD/react-native-image-slider"
+    "url": "https://github.com/NestedLooper/react-native-image-slider"
   },
   "peerDependencies": {
     "react-native": "*"

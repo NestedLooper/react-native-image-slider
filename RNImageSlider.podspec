@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license      = package["license"]
   s.author       = { "Paul Sauve" => "paul@burngames.net" }
   s.platform     = :ios, "7.0"
-  s.source        = { :git => 'https://github.com/PaulBGD/react-native-image-slider'}
+  s.source        = { :git => 'https://github.com/NestedLooper/react-native-image-slider.git'}
   s.source_files = "example/ios/**/*.{h,m}"
 
   s.dependency "React"
